@@ -3,4 +3,6 @@ D:\C# Activities\OrderingProgram\OrderingProgram\bin\Debug\OrderingProgram.exe
 D:\C# Activities\OrderingProgram\OrderingProgram\bin\Debug\OrderingProgram.pdb
 D:\C# Activities\OrderingProgram\OrderingProgram\obj\Debug\OrderingProgram.exe
 D:\C# Activities\OrderingProgram\OrderingProgram\obj\Debug\OrderingProgram.pdb
-D:\C# Activities\OrderingProgram\OrderingProgram\obj\Debug\OrderingProgram.csprojAssemblyReference.cache
+D:\C# Activities\OrderingProgram\OrderingProgram\obj\Debug\OrderingProgram.csproj.AssemblyReference.cache
+D:\C# Activities\OrderingProgram\OrderingProgram\obj\Debug\OrderingProgram.csproj.SuggestedBindingRedirects.cache
+D:\C# Activities\OrderingProgram\OrderingProgram\obj\Debug\OrderingProgram.csproj.CoreCompileInputs.cache
